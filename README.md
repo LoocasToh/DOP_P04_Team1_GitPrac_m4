@@ -4,11 +4,11 @@
 
 Junyang was here
 
-Shan Chun here
+Shan Chun was here
 
 
 
-This is hello from m2-zy. I am adding a new line of 
+This is hello from m2-zy. I am adding a new line of
 
 code here for direct branch push.”
 
